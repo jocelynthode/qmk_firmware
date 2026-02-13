@@ -1,0 +1,12 @@
+CONVERT_TO = sparkfun_pm2040
+MOUSEKEY_ENABLE = yes        # Mouse keys
+EXTRAKEY_ENABLE = yes       # Audio control and System control
+CONSOLE_ENABLE = no         # Console for debug
+COMMAND_ENABLE = no         # Commands for debug and configuration
+NKRO_ENABLE = no
+DEFERRED_EXEC_ENABLE = yes
+COMBO_ENABLE = yes
+SWAP_HANDS_ENABLE = no      # Enable one-hand typing
+WPM_ENABLE = no
+SPLIT_KEYBOARD = yes
+TAP_DANCE_ENABLE = no
